@@ -1,6 +1,7 @@
 // write your code below!
 var name = "Beth"
 var holiday = "Halloween"
+var days = parseInt()
 
 function happyHolidays () {
 return "Happy holidays!"
@@ -11,3 +12,4 @@ function happyHolidaysTo (name) {
 function happyHolidayTo (holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
+function holidayCountdown (holiday, days) {
